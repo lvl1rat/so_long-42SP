@@ -38,7 +38,7 @@ Example map:
 
 ## ⚙️ Building the Game
 
-Make sure MiniLibX is cloned into the `mlx/` folder:
+Make sure MiniLibX is cloned into the `minilibx/` folder:
 
 ```bash
 make
